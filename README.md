@@ -249,9 +249,6 @@ This project welcomes contributions and improvements. The codebase is structured
 4. Test thoroughly on both frontend and backend
 5. Submit a pull request
 
-## License
-
-This project is open source and available under the MIT License.
 
 ## Future Enhancements
 
