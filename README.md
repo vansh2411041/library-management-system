@@ -142,8 +142,6 @@ library-management-system/
 ├── .gitignore
 └── README.md
 ```
-```
-
 
 ## API Endpoints
 
